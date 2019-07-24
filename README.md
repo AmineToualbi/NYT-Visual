@@ -8,8 +8,9 @@ NYT Visual addresses this gap in how our content is delivered by showcasing the 
 
 The main idea behind this project was to introduce untapped audiences, such as millennials and generation-z members, to the broader ecosystem of the New York Times.  By connecting pictures not to a single article but to multiple related articles, the user is able to get a sense of the topic of interest by reading through different headlines of articles. 
 
-The Team: 
-	Team Lead - Amine Toualbi 
+# The Team
+ 
+  Team Lead - Amine Toualbi
 
   Advisor - Kathleen Kincaid   
 	
