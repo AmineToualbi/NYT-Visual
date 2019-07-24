@@ -1,0 +1,6 @@
+framework module Pods_NYT_InstantTests {
+  umbrella header "Pods-NYT InstantTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

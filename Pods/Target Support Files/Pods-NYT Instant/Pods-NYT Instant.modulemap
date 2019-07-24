@@ -1,0 +1,6 @@
+framework module Pods_NYT_Instant {
+  umbrella header "Pods-NYT Instant-umbrella.h"
+
+  export *
+  module * { export * }
+}

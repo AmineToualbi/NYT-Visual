@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="QLG-ID-wlb">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Tab Bar Controller-->
+        <scene sceneID="YU1-P7-ngK">
+            <objects>
+                <tabBarController id="QLG-ID-wlb" sceneMemberID="viewController">
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="tBD-9d-35m">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="barTintColor" red="0.12984204290000001" green="0.12984612579999999" blue="0.12984395030000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="selectedImageTintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="cLJ-Je-dan" kind="relationship" relationship="viewControllers" id="Ui2-pV-Xds"/>
+                        <segue destination="Q8z-u1-no9" kind="relationship" relationship="viewControllers" id="HIv-wG-X4E"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="day-W5-9Un" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1225" y="-612"/>
+        </scene>
+        <!--Feed-->
+        <scene sceneID="ahi-5O-k62">
+            <objects>
+                <viewControllerPlaceholder storyboardIdentifier="Feed" storyboardName="Feed" referencedIdentifier="Feed" id="cLJ-Je-dan" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Feed" image="Home Bar Icon" id="MEj-9s-zr3">
+                        <color key="badgeColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBarItem>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="lC2-Ol-ccR" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-575" y="-742"/>
+        </scene>
+        <!--Explore-->
+        <scene sceneID="KOm-yr-WlL">
+            <objects>
+                <viewControllerPlaceholder storyboardIdentifier="Explore" storyboardName="Explore" referencedIdentifier="Explore" id="Q8z-u1-no9" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Explore" image="Explore Icon" id="5QP-lr-8Ym">
+                        <color key="badgeColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBarItem>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jxN-8S-YdH" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-616" y="-457"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Explore Icon" width="24" height="23"/>
+        <image name="Home Bar Icon" width="30" height="30"/>
+    </resources>
+    <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+</document>
