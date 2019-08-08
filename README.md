@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="400" src="http://image.noelshack.com/fichiers/2019/32/4/1565271624-times-visual-app-logo.png">
+  <img width="200" height="200" src="http://image.noelshack.com/fichiers/2019/32/4/1565271624-times-visual-app-logo.png">
 </p>
 
 # NYT-Visual
