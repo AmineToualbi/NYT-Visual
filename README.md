@@ -2,7 +2,6 @@
   <img width="150" height="150" src="http://image.noelshack.com/fichiers/2019/32/4/1565271624-times-visual-app-logo.png">
 </p>
 
-# UI
 ![alt text](http://image.noelshack.com/fichiers/2019/30/3/1563994349-screen-shot-2019-07-23-at-5-56-32-pm.png)
 ![alt text](http://image.noelshack.com/fichiers/2019/30/3/1563994349-screen-shot-2019-07-23-at-5-57-18-pm.png)
 ![alt text](http://image.noelshack.com/fichiers/2019/30/3/1563994349-screen-shot-2019-07-23-at-5-57-18-pm.png)
