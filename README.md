@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="400" height="400" src="http://image.noelshack.com/fichiers/2019/32/4/1565271624-times-visual-app-logo.png">
+</p>
+
 # NYT-Visual
 NYTimes Visual is an idea that came to my mind and that I brought to reality by pitching and forming a team of talented employees for the annual NYTimes 2019 Maker Week. 
 
