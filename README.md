@@ -5,6 +5,7 @@
 # NYT-Visual
 
 Read the article for the New York Times' open blog about NYT Visual -> https://open.nytimes.com/we-prototyped-a-news-app-to-reach-gen-z-readers-45e3c18977ba. 
+
 NYTimes Visual is an idea that came to my mind and that I brought to reality by pitching and forming a team of talented employees for the annual NYTimes 2019 Maker Week. 
 
 
